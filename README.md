@@ -1,16 +1,17 @@
 # 👋 Hi, I'm BapkeD
 
-## Web Developer & Engineer
+## Web Developer
+
 
 I'm passionate about creating modern web experiences with clean code and great user experiences.
 
 ### 🛠️ Skills & Technologies
 
 - **Frontend:** HTML5, CSS3, JavaScript, React, Vue.js
-- **Backend:** Node.js, Express, PHP
-- **Design:** Responsive design, UI/UX principles, Figma
-- **Tools:** Git, Webpack, Docker
-- **Other:** RESTful APIs, GraphQL, Database design
+- **Backend:** Node.js
+- **Design:** Responsive design, UI/UX principles
+- **Tools:** Git
+
 
 ### 🔭 What I'm currently working on
 
