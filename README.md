@@ -21,14 +21,14 @@ I'm passionate about creating modern web experiences with clean code and great u
 
 ### 📊 GitHub Stats
 
-![BapkeD's GitHub stats](https://github-readme-stats.vercel.app/api?username=BapkeD&show_icons=true&theme=tokyonight)
+![BapkeD's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BapkeD&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BapkeD&layout=compact&theme=tokyonight)](https://github.com/BapkeD/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BapkeD&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏆 Recent Projects
 
-<a href="https://github.com/BapkeD/portfolio-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BapkeD&repo=portfolio-demo&theme=tokyonight" />
+<a href="https://github.com/BapkeD/BapkeD">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BapkeD&repo=BapkeD&theme=tokyonight" />
 </a>
 
 ### 📫 How to reach me
@@ -50,7 +50,7 @@ I'm passionate about creating modern web experiences with clean code and great u
   
   ### Check out my coding activity
   
-  ![BapkeD's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BapkeD&theme=tokyo-night)
+  ![BapkeD's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BapkeD&theme=tokyo-night&hide_border=true)
   
   ### Skills visualization
   
@@ -58,6 +58,6 @@ I'm passionate about creating modern web experiences with clean code and great u
   
   ### GitHub Streak
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BapkeD&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=BapkeD&theme=tokyonight)](https://git.io/streak-stats)
   
 </div> 
