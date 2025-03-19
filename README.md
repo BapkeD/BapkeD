@@ -31,11 +31,6 @@ I'm passionate about creating modern web experiences with clean code and great u
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=BapkeD&repo=BapkeD&theme=tokyonight" />
 </a>
 
-### 📫 How to reach me
-
-- GitHub: [BapkeD](https://github.com/BapkeD)
-- LinkedIn: [Add your LinkedIn]
-- Website: [Add your website/portfolio]
 
 ---
 
